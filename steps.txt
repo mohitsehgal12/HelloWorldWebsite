@@ -9,3 +9,5 @@
 9. cat <path to id_rsa.pub> //add this SSH key to your github account
 10. git remote add origin <project ssh url.git>
 11. git push origin master
+
+Important tutorial link : https://www.youtube.com/watch?v=G14WMD8Kg3U
